@@ -8,7 +8,7 @@ description: Tri Minh Phan's personal page
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/portrait.jpg
+picture: assets/portrait.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -45,7 +45,7 @@ authors:
     name: Tri Minh Phan
     bio: NLP and ML enthusiast
     external-image: false
-    picture: assets/images/portrait.jpg
+    picture: assets/portrait.jpg
     X: Phan Minh Trí
   johndoe:
     name: John Doe
