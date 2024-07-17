@@ -1,14 +1,14 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Tri Minh Phan
+bio: Research Assistant at the University of St.Gallen | Data Analyst Intern at Deutsche Bundesbank
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Tri Minh Phan's personal page
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/portrait.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -17,10 +17,10 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/CV.pdf
 
-url: https://sergiokopplin.github.io/indigo
+url: https://minhtriphan.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,14 +34,19 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# X: Phan Minh Trí
+linkedin: minh-tri-phan-70aa13a8
+github: minhtriphan
+kaggle: shinomoriaoshi
+email: phanminhtri2611@gmail.com
 
 authors:
+  minhtriphan:
+    name: Tri Minh Phan
+    bio: NLP and ML enthusiast
+    external-image: false
+    picture: assets/images/portrait.jpg
+    X: Phan Minh Trí
   johndoe:
     name: John Doe
     bio: A Man who travels the world eating noodles
@@ -58,14 +63,14 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -83,7 +88,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 # add default values to specific pages or layouts
 defaults:
@@ -100,6 +105,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+jekyll-mentions:
+  base_url: https://github.com
 
 compress_html:
   ignore:
