@@ -1,5 +1,5 @@
 # main text of home
-title: Tri Minh Phan
+name: Tri Minh Phan
 bio: Research Assistant at the University of St.Gallen | Data Analyst Intern at Deutsche Bundesbank
 
 # twitter summary info
@@ -41,7 +41,7 @@ kaggle: shinomoriaoshi
 email: phanminhtri2611@gmail.com
 
 authors:
-  minhtriphan:
+  triminhphan:
     name: Tri Minh Phan
     bio: NLP and ML enthusiast
     external-image: false
