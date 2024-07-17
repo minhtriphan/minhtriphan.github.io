@@ -1,6 +1,6 @@
 # main text of home
 name: Tri Minh Phan
-bio: Research Assistant at the University of St.Gallen | Data Analyst Intern at Deutsche Bundesbank
+bio: Research Assistant at the University of St.Gallen | Data Analyst Intern at Deutsche Bundesbank | Kaggle Competition Master
 
 # twitter summary info
 description: Tri Minh Phan's personal page
@@ -34,7 +34,6 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# X: Phan Minh Trí
 linkedin: minh-tri-phan-70aa13a8
 github: minhtriphan
 kaggle: shinomoriaoshi
@@ -46,12 +45,19 @@ authors:
     bio: NLP and ML enthusiast
     external-image: false
     picture: assets/portrait.jpg
-    X: Phan Minh Trí
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: large
+
+# if you do/don't need pagination, toggle 'enabled' between true/false below
+pagination:
+  enabled: false
+  sort_reverse: true # display recent posts first
+  title: ":title" # Changing this will mess up the header display logic
+  per_page: 5
+  permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
