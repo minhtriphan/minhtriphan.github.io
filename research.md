@@ -6,7 +6,7 @@ layout: page
 <style> ul li { margin-bottom: 10px; } </style>
 
 # Publications
-* _Sentiment-semantic Word Vectors: A New Method to Estimate Management Sentiment_, 2024, forthcoming in Swiss Journal of Economics and Statistics [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723125)]
+* _Sentiment-semantic Word Vectors: A New Method to Estimate Management Sentiment_, 2024, Swiss Journal of Economics and Statistics, 160 (9) [[Paper](https://sjes.springeropen.com/articles/10.1186/s41937-024-00126-1)]
   
   **Abstract:** This paper introduces a novel method to extract the sentiment embedded in the Management's Discussion and Analysis (MD&A) section of 10-K filings. The proposed method outperforms traditional approaches in terms of sentiment classification accuracy. Utilizing this method, the MD&A sentiment is found to be a strong negative predictor of future stock returns, demonstrating consistency in both in-sample and out-of-sample settings. By contrast, if traditional sentiment extraction methods are used, the MD&A sentiment exhibits no predictive ability for stock markets. Additionally, the MD&A sentiment is associated with dividend-related macroeconomic channels regarding future stock return prediction.
 
