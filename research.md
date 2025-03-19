@@ -7,10 +7,10 @@ layout: page
 
 # Publications
 * _Sentiment-semantic Word Vectors: A New Method to Estimate Management Sentiment_, 2024, Swiss Journal of Economics and Statistics, 160 (9) [[Paper](https://sjes.springeropen.com/articles/10.1186/s41937-024-00126-1)]
-* _Unveiling Themes in 10-K Disclosures: A New Topic Modeling Perspective_, 2025, forthcoming on International Review of Financial Analysis, jointly with Matthias Fengler [[Paper](https://econpapers.repec.org/paper/usgeconwp/2023_3a07.htm)]
+* _Unveiling Themes in 10-K Disclosures: A New Topic Modeling Perspective_, 2025, forthcoming on International Review of Financial Analysis, jointly with Matthias Fengler [[Paper](http://dx.doi.org/10.2139/ssrn.4994935)]
 
 # Working papers
-* _LongFinBERT: A Language Model for Very Long Financial Documents_, 2025, jointly with Erik-Jan Senn [Paper]
+* _LongFinBERT: A Language Model for Very Long Financial Documents_, 2025, jointly with Erik-Jan Senn [[Paper](http://dx.doi.org/10.2139/ssrn.5011898)]
 
   **Abstract:** This paper introduces LongFinBERT, a modern language model specialized for excessively long financial documents. LongFinBERT shows remarkable efficiency, requiring significantly less computational costs than other state-of-the-art language models. This unique characteristic enables LongFinBERT to process an entire financial document in a single pass, which is typically infeasible with other language models. Leveraging this advantage, we apply LongFinBERT to detect financial misreporting using 10-K filings from January 1999 to December 2018. Misreporting detection utilizing text-based features from LongFinBERT outperforms that of canonical accounting variables or other text models. Finally, investors are responsive to year-over-year alterations of accounting disclosures, measured by LongFinBERT.
 
